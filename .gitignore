@@ -1,0 +1,15 @@
+# 录音原件别进库（体积大、含人声），只存转写文本
+*.mp3
+*.m4a
+*.wav
+*.aac
+*.mp4
+*.mov
+
+# 临时 / 系统
+.DS_Store
+Thumbs.db
+*.tmp
+~$*
+.vscode/
+.idea/
